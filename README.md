@@ -12,6 +12,7 @@ In the first practical we revised OOP design principles. This extension exercise
 
 ![UML Class Diagram for implementation of Payroll Application.](/images/SimplePayrollApplication_Custom.png)
 
+**There are toString() methods added to the Contractor, SalariedEmployee and HourlyEmployee classes to provide some simple output for testing. Feel free to modify**
 
 ## Classes
 
